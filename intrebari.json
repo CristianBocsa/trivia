@@ -1,22 +1,57 @@
 {
    "intr" :
    [
-    "1.Unde a domnit Stefan Viteazul?",
+    "1.Unde a domnit Stefan Cel Mare?",
     "2.Cuba Libre contine:",
     "3.Jumatate inseamna:",
     "4.Pizza este un preparat de origine spaniola:",
-    "5.Cate episoade are 'Lord of the rings'?"
+    "5.Cate episoade are 'Lord of the rings'?",
+    "6.Cate zile are o saptamana?",
+    "7.Ce afiseaza urmatoarea linie de cod:  print('hello world')?",
+    "8.Care este valoarea diametrului pamantului, in km?",
+    "9.Cate planete se afla in sistemul Calea Lactee?",
+    "10.Balena este peste",
+    "11.Primul razboi mondial a avut loc intre anii",
+    "12.Cine a scris 'Amintiri din copilarie'?",
+    "13.Gravitatia a fost descoperita de:?",
+    "14.Ce rau traverseaza Parisul?",
+    "15.Cine a compus 'Stairway to Heaven'?",
+    "16.Cate straturi are pielea umana?",
+    "17.Care este cea mai mare tara din lume?",
+    "18.Care este cea mai mica tara din lume?",
+    "19.Cate strofe are 'Lucafarul'?",
+    "20.In ce mileniu ne aflam?",
+    "21.Cine a scris 'Romeo si Julieta'?",
+    "22.Cand s a nascut Hitler?",
+    "23. Intre ce ani a condus Mussolini?"
     ],
 
     "var" :
     [
-    ["Tara Romaneasca", "Moldova", "Transilvania", "Ungaria"],
+    ["Tara Romaneasca", "Moldova", "Transilvania", "Roamania"],
     ["Cola si rom","Cola si Wiskey","Cola si gin","Cola si tuica"],
     ["5/7", "4/4", "3/6", "1"],
     ["","Fals", "Adevarat", ""],
-    ["1", "2", "3", "4"]
+    ["1", "2", "3", "4"],
+     ["9", "6", "5", "7"],
+     ["hello world", "hello", "world", "eroare"],
+     ["12.473", "11.000", "12.742", "13.733"],
+     ["12", "13", "peste 300.000.000", "sub 300.000.000"],
+     ["", "Adevarat", "Fals", ""],
+     ["1914-1918", "1912-1916", "1914-1916", "1912-1918"],
+     ["M. Eminescu", "I. L. Caragiale", "M. Eliade", "I. Creanga"],
+     ["N. Tesla", "I. Newton", "Einstein", "Platon"],
+     ["Sena", "Tisa", "Rin", "Eufrat"],
+     ["AC/DC", "Elton John", "Led Zeppelin", "Eric Clapton"],
+     ["1", "2", "3", "4"],
+     ["SUA", "Rusia", "Romania", "Canada"],
+     ["Macedonia", "Andorra", "San Marino", "Vatican"],
+     ["100", "99", "98", "97"],
+     ["1", "2", "3", "4"],
+     ["Shakespear", "Baudelaire", "Tolkien", "Jameson"],
+     ["22.12.1886", "20.04.1889", "21.04.1889", "22.12.1999"],
+     ["1925-1943", "1919-1943", "1922-1943", "1930-1943"]
     ],
 
-    "rasp" : [ 2, 1, 3, 2, 3]
-
-}
+    "rasp" : [ 2, 1, 3, 2, 3, 4, 1, 3, 3, 2, 1, 4, 2, 1, 3, 3, 2, 4, 3, 1, 2, 1, 3]
+ }
